@@ -1,0 +1,11 @@
+name: hmrs_mission_control_evaluation_analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy=1.18.*
+  - jupyterlab=2.*
+  - pandas=1.0.3
+  - pathlib
+
+
